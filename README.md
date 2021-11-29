@@ -6,3 +6,7 @@
 
 **2. Desvincula tus hojas de estilo de las páginas de tu proyecto y, al menos en una de ellas, vincula Bootstrap (tanto el CSS como el JS) como se muestra en el fichero starter-template.html.**
 
+**3. En tu página principal, modifica el HTML de modo que hagas uso de las estructuras de layout que propone Bootstrap quedando acorde con tu prototipo. Revisa las secciones "Containers", "Grid",... de su documentación https://getbootstrap.com/docs/5.1/layout/breakpoints/.**
+
+**4. **
+
